@@ -38,10 +38,6 @@ jobs:
         yuque-template-file:  README.template.md # optional, default is README.template.md
         # Which file to write
         yuque-output-file: README.md # optional, default is README.md
-   
-    - name: Result
-      run: |-
-        cat README.skylark.md
     
     - name: Commit and push if changed
       run: |-

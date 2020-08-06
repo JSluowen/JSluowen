@@ -29,9 +29,9 @@ jobs:
         # 填你自己的空间标识。比如语雀的博客是： `yuque/blog`
         yuque-namespace: luowen-m5zdx # default is yuque/blog
         # 是否只列出已发布的文章
-        yuque-doc-public-only: true# optional, default is true
+        yuque-doc-public-only: true # optional, default is true
         # 最多列出几条
-        yuque-doc-limit: 5# optional, default is 5
+        yuque-doc-limit: 5 # optional, default is 5
         # 按什么字段排序
         yuque-doc-order-by: updated_at # optional, default is updated_at
         # Template for generate output

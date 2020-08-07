@@ -4,6 +4,7 @@
 
 <h4> Latest Blog Posts: </h4>
 
+  - [如何阅读一本书 ( 08-07 · 0 颗稻谷)](https://yuque.com/luowen-m5zdx/kgrxbs/xuhlxy)
   - [博客第1期 ( 08-06 · 0 颗稻谷)](https://yuque.com/luowen-m5zdx/kgrxbs/ny150b)
 
 
